@@ -3,3 +3,5 @@ william/MDK-ARM/Listings/*.*
 william/MDK-ARM/*.htm
 william/MDK-ARM/*.uvguix.*
 william/MDK-ARM/*.uvoptx
+william/STM32F051/*.*
+
